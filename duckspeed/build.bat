@@ -1,0 +1,1 @@
+dotnet build .\DuckSpeed.csproj -c Release

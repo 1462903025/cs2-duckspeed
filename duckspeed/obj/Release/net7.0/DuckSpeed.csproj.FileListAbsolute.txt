@@ -1,0 +1,15 @@
+D:\Source\Repos\cs2-duckspeed\duckspeed\bin\Release\net7.0\DuckSpeed.deps.json
+D:\Source\Repos\cs2-duckspeed\duckspeed\bin\Release\net7.0\DuckSpeed.dll
+D:\Source\Repos\cs2-duckspeed\duckspeed\bin\Release\net7.0\DuckSpeed.pdb
+D:\Source\Repos\cs2-duckspeed\duckspeed\bin\Release\net7.0\CounterStrikeSharp.API.dll
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.csproj.AssemblyReference.cache
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.AssemblyInfoInputs.cache
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.AssemblyInfo.cs
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.csproj.CoreCompileInputs.cache
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.sourcelink.json
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.csproj.Up2Date
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.dll
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\refint\DuckSpeed.dll
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\DuckSpeed.pdb
+D:\Source\Repos\cs2-duckspeed\duckspeed\obj\Release\net7.0\ref\DuckSpeed.dll
